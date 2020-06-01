@@ -14,4 +14,5 @@ An organization and exploration of my Computer Science education.
 * 
 
 ## Milestones
-* 
+[ ] Complete OS Study Guide
+[ ] Complete Algorithms Study Guide
